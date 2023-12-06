@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: muthu
+Build-Jdk: 17.0.8.1
+Implementation-Title: springboot-web-app-security
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.springframework.boot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springboot-web-app-security
+Created-By: Maven Integration for Eclipse
+
