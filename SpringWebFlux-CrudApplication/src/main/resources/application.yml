@@ -1,0 +1,7 @@
+spring:
+   data:
+     mongodb:
+       database : candidateInformation
+       port: 27017
+       host: localhost
+       
